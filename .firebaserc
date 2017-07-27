@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "production": "reddit-clone-6118b",
+    "default": "co-reddit-clone"
+  }
+}
